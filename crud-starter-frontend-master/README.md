@@ -5,5 +5,6 @@
 REACT CSV PARA ARREGLOS EN REACT BOOSTRAP REACT ROUTER DOM
 ```
 npm install
+npm start
 ```
 
